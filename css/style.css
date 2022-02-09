@@ -752,7 +752,7 @@ ul.allocation.right-list li:hover:after, ul.allocation.left-list li:hover:after 
 
 .images {
 	position:relative;
-	width:100%;
+	width:500px;
 	padding:10px 15px;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
